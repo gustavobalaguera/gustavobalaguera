@@ -8,6 +8,6 @@ My name is Gustavo Balaguera. I am a current student majoring in Cybersecurity a
 * Kali Linux
 * TCP/IP
 
-<img src="https://api.badgr.io/public/assertions/A0Y7_Gc4SzOgJ52RPb9_JQ/image" width="256" /> <img src="https://api.badgr.io/public/assertions/0lu7qi2GQT2s948T4yVo5A/image" width = "256"/> <img src="https://images.credly.com/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" width="256"/>
+<img src="https://api.badgr.io/public/assertions/A0Y7_Gc4SzOgJ52RPb9_JQ/image" width="240" /> <img src="https://api.badgr.io/public/assertions/0lu7qi2GQT2s948T4yVo5A/image" width = "240"/> <img src="https://images.credly.com/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" width="240"/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gustavobalaguera)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gustavo-balaguera-98688a290) 
