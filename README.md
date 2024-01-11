@@ -14,4 +14,4 @@ My name is Gustavo Balaguera. I am a current student majoring in Cybersecurity a
 
 ## Links
 https://www.credly.com/badges/ec19de80-1394-4ac2-bfdc-a7ffaaabad24/public_url
-<img src="https://api.badgr.io/public/collections/ea8fcbc3243a443099b373761495ed2a?embed=true&amp;embedVersion=1&amp;embedWidth=330&amp;embedHeight=146" title="Cybersecurity Badges" style="width: 330px; height: 146px; border: 0px;"></img>
+https://api.badgr.io/public/collections/ea8fcbc3243a443099b373761495ed2a
