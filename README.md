@@ -5,7 +5,7 @@ My name is Gustavo Balaguera. I am a current student majoring in Cybersecurity a
 ## Skills and Experience
 * Python
 * HTML, CSS, JS
-* Kali Linux
+* Kali Linux (Wireshark, NMap, Hydra, & Burp Suite to name a few)
 * TCP/IP
 
 <img src="https://api.badgr.io/public/assertions/A0Y7_Gc4SzOgJ52RPb9_JQ/image" width="240" /> <img src="https://api.badgr.io/public/assertions/0lu7qi2GQT2s948T4yVo5A/image" width = "240"/> <img src="https://images.credly.com/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" width="240"/>
