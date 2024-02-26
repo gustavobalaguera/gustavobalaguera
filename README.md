@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Gustavo Balaguera
 #### Cybersecurity
-My name is Gustavo Balaguera. I am a current student majoring in Cybersecurity at Stevens Institute of Technology. I strive to be among those who have achieved positive and influential success. I have received education from the SANS Technology Institute through the generosity of the CyberStart America program provided by the National Cyber Scholarship Foundation. In addition, I earned my GIAC certification in foundational cybersecurity technologies. I'm proud to be among the top 2% of competitors in Cyberstart and hold the title of National Cyber Scholar with Honors for the 2022 and 2023 competitions. My goal is consistent across the board: to succeed for myself and all who benefit in the digital realm.
+My name is Gustavo Balaguera, a dedicated student specializing in Cybersecurity at Stevens Institute of Technology. I am committed to joining the ranks of those who have made significant and inspiring contributions to the field. My education has been furthered through the SANS Technology Institute, thanks to the CyberStart America program funded by the National Cyber Scholarship Foundation. Additionally, I have secured the GIAC certification, affirming my expertise in essential cybersecurity technologies.
+
+I take pride in ranking within the elite top 2% of participants in the CyberStart competition, earning me the esteemed title of National Cyber Scholar with Honors for the years 2022 and 2023. My aspiration is clear and steadfast: to achieve excellence both for my personal growth and for the broader benefit of the cybersecurity community.
 
 ## Skills and Experience
 * Python
