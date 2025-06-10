@@ -1,15 +1,15 @@
-### Hi there 👋, I'm Gustavo Balaguera
-#### Cybersecurity
-My name is Gustavo Balaguera, a dedicated student specializing in Cybersecurity at Stevens Institute of Technology. I am committed to joining the ranks of those who have made significant and inspiring contributions to the field. My education has been furthered through the SANS Technology Institute, thanks to the CyberStart America program funded by the National Cyber Scholarship Foundation. Additionally, I have secured the GIAC certification, affirming my expertise in essential cybersecurity technologies.
+## 🔍 About Me  
+One of the main contributing factors of my decision to pursue cybersecurity was to be a part of a cyber community that is willing to push for a change in the digital realm. **Innocent people should not have their services and privacy compromised because of vulnerabilities in the systems they rely on or a lack of proper threat mitigation**. I want to be part of a cyber community that works to solve these challenges and **create a safer online environment.**
 
-I take pride in ranking within the elite top 2% of participants in the CyberStart competition, earning me the esteemed title of National Cyber Scholar with Honors for the years 2022 and 2023. My aspiration is clear and steadfast: to achieve excellence both for my personal growth and for the broader benefit of the cybersecurity community.
+🚀 **Cybersecurity Advocacy & Innovation**  
+I am committed to **pushing the boundaries of security solutions**, exploring advancements like:
+- **Ethical hacking & penetration testing** to proactively identify and mitigate vulnerabilities
+- **Blockchain technologies** to fortify security frameworks  
+- **AI-driven authentication**, utilizing behavioral analysis to fight AI with AI  
+- **Passkey authentication**, replacing traditional username-password models to enhance protection  
 
-## Skills
-* Python
-* Java
-* HTML, CSS, JS
-* Kali Linux (Wireshark, NMap, Hydra, & Burp Suite to name a few)
-* TCP/IP
+🔎 **Looking Ahead**  
+As I progress in my career, I want to drive **user-focused security innovations**, ensuring that cybersecurity adapts to new challenges. I am excited to **connect, collaborate, and innovate** with fellow professionals dedicated to safeguarding the digital world!
 
 <img src="https://api.badgr.io/public/assertions/A0Y7_Gc4SzOgJ52RPb9_JQ/image" width="240" /> <img src="https://api.badgr.io/public/assertions/0lu7qi2GQT2s948T4yVo5A/image" width = "240"/> <img src="https://images.credly.com/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" width="240"/>
 
