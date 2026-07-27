@@ -1,4 +1,4 @@
-# 🔐 Gustavo Balaguera  
+# Gustavo Balaguera  
 ### Cybersecurity Analyst • AI Safety Advocate • E‑Commerce Security • National Cyber Scholar
 
 > I'm experienced in securing e‑commerce platforms, performing offensive security assessments of third‑party vendors, and researching AI‑driven threat models alongside AI‑human interactions. My work blends hands‑on technical analysis with a strong focus on user protection and system resilience.
